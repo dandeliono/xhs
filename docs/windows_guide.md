@@ -2,7 +2,7 @@
 
 在 Windows 部署过程，如果遇到问题，那么可以先参考本手册。
 
-可以参考这里 https://github.com/xpzouying/xiaohongshu-mcp/issues/56
+可以参考这里 https://github.com/dandeliono/xhs/issues/56
 
 由于 xiaohongshu-mcp 采用的是 Go，NPX 则依赖 Node.JS。为了*避免后续遇到的环境变量等问题*，建议使用 Winget 来安装 Go 和 Node.JS，因为使用 Winget 安装后，Windows 会自动配置好对应的环境变量。
 

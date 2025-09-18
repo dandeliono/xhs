@@ -3,8 +3,8 @@ package main
 import (
 	"flag"
 
+	"github.com/dandeliono/xhs/configs"
 	"github.com/sirupsen/logrus"
-	"github.com/xpzouying/xiaohongshu-mcp/configs"
 )
 
 func main() {
