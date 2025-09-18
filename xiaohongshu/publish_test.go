@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/xpzouying/xiaohongshu-mcp/browser"
+	"github.com/dandeliono/xhs/browser"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

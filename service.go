@@ -4,12 +4,12 @@ import (
 	"context"
 	"fmt"
 
+	"github.com/dandeliono/xhs/browser"
+	"github.com/dandeliono/xhs/configs"
+	"github.com/dandeliono/xhs/pkg/downloader"
+	"github.com/dandeliono/xhs/xiaohongshu"
 	"github.com/mattn/go-runewidth"
 	"github.com/xpzouying/headless_browser"
-	"github.com/xpzouying/xiaohongshu-mcp/browser"
-	"github.com/xpzouying/xiaohongshu-mcp/configs"
-	"github.com/xpzouying/xiaohongshu-mcp/pkg/downloader"
-	"github.com/xpzouying/xiaohongshu-mcp/xiaohongshu"
 )
 
 // XiaohongshuService 小红书业务服务

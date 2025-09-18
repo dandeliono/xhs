@@ -1,9 +1,9 @@
 package browser
 
 import (
+	"github.com/dandeliono/xhs/cookies"
 	"github.com/sirupsen/logrus"
 	"github.com/xpzouying/headless_browser"
-	"github.com/xpzouying/xiaohongshu-mcp/cookies"
 )
 
 type browserConfig struct {
